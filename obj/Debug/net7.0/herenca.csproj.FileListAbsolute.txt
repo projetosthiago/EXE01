@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\herenca\bin\Debug\net7.0\herenca.exe
+C:\Users\LAB4\Desktop\herenca\bin\Debug\net7.0\herenca.deps.json
+C:\Users\LAB4\Desktop\herenca\bin\Debug\net7.0\herenca.runtimeconfig.json
+C:\Users\LAB4\Desktop\herenca\bin\Debug\net7.0\herenca.dll
+C:\Users\LAB4\Desktop\herenca\bin\Debug\net7.0\herenca.pdb
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.dll
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\refint\herenca.dll
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.pdb
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\herenca.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\herenca\obj\Debug\net7.0\ref\herenca.dll
